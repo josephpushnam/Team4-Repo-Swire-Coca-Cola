@@ -1,5 +1,3 @@
-# Team4-Repo-Swire-Coca-Cola
-
 # 🚚 Swire Coca-Cola Customer Segmentation & Delivery Optimization
 
 This project delivers a data-driven approach to help Swire Coca-Cola identify and classify its customers into appropriate delivery service models—either high-cost Red Truck services or cost-effective White Truck services—based on historical ordering behavior. 
