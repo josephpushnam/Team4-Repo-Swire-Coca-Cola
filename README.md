@@ -1,10 +1,5 @@
 # Team4-Repo-Swire-Coca-Cola
 
-
-Here’s a polished `README.md` draft for your GitHub repo, consolidating key insights from your presentation, business problem statement, and modeling notebooks. Let me know if you want me to add sections for setup instructions, interactive visuals, or Colab badges.
-
----
-
 # 🚚 Swire Coca-Cola Customer Segmentation & Delivery Optimization
 
 This project delivers a data-driven approach to help Swire Coca-Cola identify and classify its customers into appropriate delivery service models—either high-cost Red Truck services or cost-effective White Truck services—based on historical ordering behavior. 
@@ -97,12 +92,3 @@ Automate onboarding/offboarding using model predictions and volume thresholds, s
 ├── 🤖 Team_4_Modeling_(Swire_Coca_Cola).ipynb         # Model training and evaluation
 ├── README.md                                         # 🔥 This file
 ```
-
----
-
-Let me know if you'd like to:
-- Link to Google Colab for live demo 📎
-- Add visuals of AGI cluster maps 🗺️
-- Include performance metrics in table format 📈
-
-Want to make this a Quarto doc for stakeholder sharing or keep it Markdown-only for GitHub?
